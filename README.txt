@@ -1,6 +1,6 @@
 These data and codes implement part of the analysis conducted in the paper
 
-Samad, I., Sutaria, D. & Shanker, K. (in review). Spatio-temporal drivers of elasmobranch catch are site and fishery specific: Implications for fisheries management and species conservation. Biodiversity and Conservation.
+Samad, I., Sutaria, D. & Shanker, K. (in press). Species rich but data poor: leveraging distribution modelling techniques to map cetacean occurrence in South Asian waters. Biodiversity and Conservation.
 
 The code is structured in three parts which include
 a) Tuning each model to obtain optimal hyperparameters for the data
